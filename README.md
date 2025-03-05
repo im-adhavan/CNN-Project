@@ -5,18 +5,6 @@ object detection, or other computer vision tasks. The project is built using **T
 
 ---
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Features](#features)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Results](#results)
-6. [Technologies Used](#technologies-used)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
-
----
-
 ## Introduction
 
 A **Convolutional Neural Network (CNN)** is a type of deep learning algorithm used primarily in image and video recognition. This project implements a CNN model for tasks such as:
