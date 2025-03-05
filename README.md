@@ -34,4 +34,12 @@ To run this project, ensure you have Python and the required dependencies instal
    git clone https://github.com/<username>/CNN-Project.git
    cd CNN-Project
 2. Install Dependencies:
+   ```bash
    pip install -r requirements.txt
+3. Install Jupyter Notebook:
+   ```bash
+   pip install notebook
+4. Open Jupyter Notebook
+   ```bash
+   jupyter notebook
+5. Verify the Code
