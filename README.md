@@ -31,7 +31,7 @@ To run this project, ensure you have Python and the required dependencies instal
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/CNN-Project.git
+   git clone https://github.com/im-adhavan/CNN-Project.git
    cd CNN-Project
 2. Install Dependencies:
    ```bash
